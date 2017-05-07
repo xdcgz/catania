@@ -1,10 +1,18 @@
 #+Title: Catania
 
+
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1>" reveal_width:-1
+
 #+REVEAL_ROOT: file:///home/xulia/src/reveal.js
 
 * Une ville en Sicile
 
++ also province
++ 2nd biggest in Sicily after Palermo
+
 [[file:Sicily.png]]
+
+
 
 * Plus grand que Genève, mais ...
 
@@ -16,23 +24,70 @@
 
 
 
-+ also a province
-+ in Italy
-+ in Sicily
-+ 2nd biggest city in Sicily behind Palermo
-+ map of Catania in Italy
-
-+ map of Sicily showing Catania province and city and Palermo(english
-  wiki page maybe)
-
+* Earthquakes
 
 + earthquakes, destroyed in 1169 and 1693 (rebuilt -> Baroque
   architecture)
+
+* Mount Etna
 
 + at the foot of mount Etna active volcano (picture)
 
 + volcanic ashes, fertile soil, wine industry ?
 
-+ [2 subterranean rivers]
++ When did it last erupt? How often. How likely are we to die?
+
+* 2 subterranean rivers
+
+Covered by lava in 1693 eruption
+
+[In 1693, an eruption struck the city and buried its 16th-century
+counterpart, which is still visible here and there in Catania. Two
+rivers, Amenano and Lognina, as well as a whole lake named Nicito were
+buried by lava, but several churches retain their access to this
+lower, older level of the city. It is still possible to visit sections
+of what has survived and is a must-see for those fascinated by the
+mysteries of the past.]
+
+* Climate
 
 + hot long summers, mild winters (30° June, )
+
+* u Liotru
+
+The symbol of the city is u Liotru, or the Fontana dell'Elefante,
+
+* Things to do
+
+** Go up mount Etna
+
+We will do this. At night.
+
+** Piazza Duomo
+
+Baroque square
+
+** La Pescheria
+
+Fish Market
+
+Near Piazza Duomo
+
+** San Giovanni li Cuti
+
+Black beach
+
+** Castello Ursino (Museo Civico)
+
+13 century castle
+M.C housed inside C.U
+** Via dei Crociferi
+
+Pretty buildings (baroque)
+
+** Basilica Cattedrale Sant'Agata
+Baroque
+
+** Roman Theatre
+
+** Monastero Dei Benedettini
