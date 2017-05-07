@@ -1,5 +1,7 @@
 #+Title: Catania
 
+#+REVEAL_ROOT: file:///home/xulia/src/reveal.js
+
 * Une ville en Sicile
 
 [[file:Sicily.png]]
