@@ -12,8 +12,7 @@
 
 * Géographie
 
-+ ville de Sicile
-+ province du même nom
++ ville et province de Sicile
 + 2ème ville la plus grande de Sicile derrière Palerme
 
 [[file:Sicily.png]]
@@ -33,7 +32,7 @@
 * Dans l'ombre de l'Etna...
 
 
-* at the foot of mount Etna active volcano (picture)
+* [[file:etnacatania.jpg]]
 
 * 
 + Des tremblements de terre ont detruit la ville en 1169 et 1693
@@ -60,33 +59,31 @@
 
 * À visiter...
 
-** u Liotru ou Fontana dell'Elefante
+** Fontana dell'Elefante
 
-+ Symbole de la ville
-
-image
+[[file:fontanaelefante.jpg]]
 
 ** L'Etna
 
-image
+[[file:etna.jpg]]
 
 ** Piazza Duomo
 
 place baroque
 
-image
+[[file:piazzaduomo.jpg]]
 
 ** La Pescheria
 
 Marché de poisson
 
-image
+[[file:pescheria.jpg]]
 
 ** San Giovanni li Cuti
 
 Plage «noire» 
 
-image
+[[file:sangiovannilicuti.jpg]]
 
 ** Castello Ursino
 
@@ -94,27 +91,27 @@ Château du XIIIème siècle
 
 Le Museo Civico se trouve à l'intérieur
 
-image
+[[file:castelloursino.jpg]]
 
 ** Via dei Crociferi
 
 Jolis bâtiments baroques
 
-image
+[[file:viadeicrociferi.jpg]]
 
 ** Basilica Cattedrale Sant'Agata
 
 Basilique baroque
 
-image
+[[file:basilicacattedralestagata.jpg]]
 
 ** Théâtre Romain
 
-image
+[[file:teatroromano.jpg]]
 
 ** Monastero Dei Benedettini
 
-image
+[[file:monasterobenedettini.jpg]]
 
 * À manger...
 
@@ -122,13 +119,13 @@ image
 
 Filet d'Espadon avec sauce tomate, céleri, oignon, olives et câpres
 
-image
+[[file:Ghiotta-di-pesce-spada.jpg]]
 
 ** Pasta alla Norma
 
 Pâtes avec aubergines, tomates, basilic et ricotta
 
-image
+[[file:pastanorma.jpg]]
 
 ** Cannoli con Cioccolato
 
