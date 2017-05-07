@@ -33,9 +33,9 @@
 * Dans l'ombre de l'Etna...
 
 
-* 
-+ at the foot of mount Etna active volcano (picture)
+* at the foot of mount Etna active volcano (picture)
 
+* 
 + Des tremblements de terre ont detruit la ville en 1169 et 1693
   (reconstruction -> architecture baroque)
 
@@ -78,13 +78,13 @@ image
 
 ** La Pescheria
 
-Marché de poisson (près de Piazza Duomo)
+Marché de poisson
 
 image
 
 ** San Giovanni li Cuti
 
-Plage «noire» (à cause des cendres)
+Plage «noire» 
 
 image
 
@@ -134,7 +134,8 @@ image
 
 Pâte feuilletée avec crème, chocolat et vin blanc
 
-image
+#+attr_html: :height 50% :width 60%
+[[file:cannoli.jpg]]
 
 ** Seins d'Agathe
 
