@@ -2,7 +2,7 @@
 
 
 #+OPTIONS: reveal_title_slide:"<h1>%t</h1>" reveal_width:-1
-
+#+OPTIONS: num:nil
 #+REVEAL_ROOT: file:///home/xulia/src/reveal.js
 
 * Une ville en Sicile
