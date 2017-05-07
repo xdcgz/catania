@@ -1,4 +1,4 @@
-#+Title: Catania
+#+Title: Catane
 
 
 #+OPTIONS: reveal_title_slide:"<h1>%t</h1>" reveal_width:-1
