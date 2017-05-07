@@ -5,6 +5,10 @@
 #+OPTIONS: num:nil
 #+REVEAL_ROOT: file:///home/xulia/src/reveal.js
 
+#+html_head: <style>
+#+html_head: .reveal h2 { text-transform:none; }
+#+html_head: </style>
+
 * Géographie
 
 + ville de Sicile
