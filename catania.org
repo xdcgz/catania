@@ -5,16 +5,17 @@
 #+OPTIONS: num:nil
 #+REVEAL_ROOT: file:///home/xulia/src/reveal.js
 
-* Une ville en Sicile
+* Géographie
 
-+ also province
-+ 2nd biggest in Sicily after Palermo
++ ville de Sicile
++ province du même nom
++ 2ème ville la plus grande de Sicile derrière Palerme
 
 [[file:Sicily.png]]
 
 
 
-* Plus grand que Genève, mais ...
+* Grandeur
 
 [[file:Catania_size_compared_to_Geneva.svg]]
 
@@ -24,34 +25,33 @@
 
 
 
-* Earthquakes
+* Dans l'ombre de l'Etna ...
 
-+ earthquakes, destroyed in 1169 and 1693 (rebuilt -> Baroque
-  architecture)
 
-* Mount Etna
+*
++ at the foot ouf mount Etna active volcano (picture)
 
-+ at the foot of mount Etna active volcano (picture)
++ Des tremblements de terre ont detruit la ville en 1169 et 1693
+  (reconstruction -> architecture baroque)
 
-+ volcanic ashes, fertile soil, wine industry ?
++ Cendres volcaniques -> terre fertile -> bonne industrie du vin
 
-+ When did it last erupt? How often. How likely are we to die?
++ Dernière éruption: 19 avril 2017
 
-* 2 subterranean rivers
+* Deux rivières souterraines
 
-Covered by lava in 1693 eruption
++ En 1693 -> 2 rivières (Amenano et Lognina) enterrées par la lave
 
-[In 1693, an eruption struck the city and buried its 16th-century
-counterpart, which is still visible here and there in Catania. Two
-rivers, Amenano and Lognina, as well as a whole lake named Nicito were
-buried by lava, but several churches retain their access to this
-lower, older level of the city. It is still possible to visit sections
-of what has survived and is a must-see for those fascinated by the
-mysteries of the past.]
++ Nombreuses églises ont encore accès à cette partie plus «basse» de
+  la ville.
 
-* Climate
++ Il est possible de visiter la partie qui a survécu.
 
-+ hot long summers, mild winters (30° June, )
+* Climat
+
++ Été long et chaud (30°C en juin)
+
++ Hivers doux
 
 * u Liotru
 
