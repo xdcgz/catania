@@ -18,15 +18,11 @@
 
 [[file:Sicily.png]]
 
-
-
 * Grandeur
 
 [[file:Catania_size_compared_to_Geneva.svg]]
 
-
 * Dans l'ombre de l'Etna...
-
 
 * [[file:etnacatania.jpg]]
 
@@ -91,7 +87,6 @@ Château du XIIIème siècle
 
 [[file:viadeicrociferi.jpg]]
 
-
 ** Basilica Cattedrale Sant'Agata
 
 Basilique baroque
@@ -104,7 +99,7 @@ Basilique baroque
 
 ** Monastero Dei Benedettini
 
-[[file:monasterobenedettini.jpg]]
+[[file:monasterodeibenedettini.jpg]]
 
 * À manger...
 
