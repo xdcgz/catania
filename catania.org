@@ -13,30 +13,35 @@
 * Géographie
 
 * 
-+ ville et province de Sicile
-+ 2ème ville la plus grande de Sicile derrière Palerme
++ Ville et province de Sicile
++ Deuxième ville la plus grande de Sicile derrière Palerme
 
+#+attr_html: :height 50% :width 50%
 [[file:Sicily.png]]
 
 * Grandeur
 
 + 315 000 habitants
-+ Genève en a 200 000
+#+attr_reveal: :frag (roll-in)
+(Genève en a 200 000)
+
 * Dans l'ombre de l'Etna...
 
 * [[file:etna.jpg]]
 
 * 
-+ Des tremblements de terre ont detruit la ville en 1169 et 1693
+#+attr_reveal: :frag (roll-in)
++ Des tremblements de terre ont detruit la ville en 1169 et en 1693.
   (reconstruction -> architecture baroque)
 
-+ Cendres volcaniques -> terre fertile -> bonne industrie du vin
++ Grâce aux cendres volcaniques, la terre est fertile -> bonne industrie du vin
 
 + Dernière éruption: 19 avril 2017
 
 * Deux rivières souterraines
 
-+ En 1693 -> 2 rivières (Amenano et Lognina) enterrées par la lave
+#+attr_reveal: :frag (roll-in)
++ En 1693, deux rivières (Amenano et Lognina) sont enterrées par la lave.
 
 + Nombreuses églises ont encore accès à cette partie plus «basse» de
   la ville.
@@ -61,7 +66,7 @@
 
 ** Piazza Duomo
 
-place baroque
+Place baroque
 
 [[file:piazzaduomo.jpg]]
 
@@ -99,7 +104,7 @@ Basilique baroque
 
 [[file:teatroromano.jpg]]
 
-** Monastero Dei Benedettini
+** Monastero dei Benedettini
 
 [[file:monasterodeibenedettini.jpg]]
 
@@ -126,7 +131,7 @@ Pâte feuilletée avec crème, chocolat et vin blanc
 
 ** Seins d'Agathe
 
-Biscuit farci de crème recouvert de glaçage blanc et d'une cerise
+Biscuit farci de crème, recouvert de glaçage blanc et d'une cerise
 
 #+attr_html: :height 35% :width 35%
 [[file:seins_agathe.jpg]]
