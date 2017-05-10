@@ -3,7 +3,6 @@
 
 #+OPTIONS: reveal_title_slide:"<h1>%t</h1>" reveal_width:-1
 #+OPTIONS: num:nil
-#+REVEAL_ROOT: file:///home/xulia/src/reveal.js
 
 #+html_head: <style>
 #+html_head: .reveal h2 { text-transform:none; }
