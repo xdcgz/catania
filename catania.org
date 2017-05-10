@@ -74,6 +74,7 @@ Marché de poisson
 
 Plage «noire» 
 
+#+attr_html: :height 35% :width 35%
 [[file:sangiovannilicuti.jpg]]
 
 ** Castello Ursino
@@ -84,6 +85,7 @@ Château du XIIIème siècle
 
 ** Via dei Crociferi
 
+#+attr_html: :height 40% :width 40%
 [[file:viadeicrociferi.jpg]]
 
 ** Basilica Cattedrale Sant'Agata
@@ -125,4 +127,5 @@ Pâte feuilletée avec crème, chocolat et vin blanc
 
 Biscuit farci de crème recouvert de glaçage blanc et d'une cerise
 
+#+attr_html: :height 35% :width 35%
 [[file:seins_agathe.jpg]]
